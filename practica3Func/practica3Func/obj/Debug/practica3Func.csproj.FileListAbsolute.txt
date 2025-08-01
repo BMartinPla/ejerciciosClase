@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica3Func\practica3Func\bin\Debug\practica3Func.exe.config
+C:\Users\braian.pla\source\repos\practica3Func\practica3Func\bin\Debug\practica3Func.exe
+C:\Users\braian.pla\source\repos\practica3Func\practica3Func\bin\Debug\practica3Func.pdb
+C:\Users\braian.pla\source\repos\practica3Func\practica3Func\obj\Debug\practica3Func.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica3Func\practica3Func\obj\Debug\practica3Func.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica3Func\practica3Func\obj\Debug\practica3Func.exe
+C:\Users\braian.pla\source\repos\practica3Func\practica3Func\obj\Debug\practica3Func.pdb
