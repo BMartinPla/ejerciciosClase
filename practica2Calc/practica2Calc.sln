@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica2Calc", "practica2Calc\practica2Calc.csproj", "{B94032B7-6473-4E73-AD86-117FF54B0EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94032B7-6473-4E73-AD86-117FF54B0EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94032B7-6473-4E73-AD86-117FF54B0EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94032B7-6473-4E73-AD86-117FF54B0EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94032B7-6473-4E73-AD86-117FF54B0EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F9E5B57-E20B-47FE-8E8A-213281C2D00E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica2Calc\practica2Calc\obj\Debug\practica2Calc.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica2Calc\practica2Calc\obj\Debug\practica2Calc.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica2Calc\practica2Calc\bin\Debug\practica2Calc.exe.config
+C:\Users\braian.pla\source\repos\practica2Calc\practica2Calc\bin\Debug\practica2Calc.exe
+C:\Users\braian.pla\source\repos\practica2Calc\practica2Calc\bin\Debug\practica2Calc.pdb
+C:\Users\braian.pla\source\repos\practica2Calc\practica2Calc\obj\Debug\practica2Calc.exe
+C:\Users\braian.pla\source\repos\practica2Calc\practica2Calc\obj\Debug\practica2Calc.pdb
