@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica4Saludo\practica4Saludo\bin\Debug\practica4Saludo.exe.config
+C:\Users\braian.pla\source\repos\practica4Saludo\practica4Saludo\bin\Debug\practica4Saludo.exe
+C:\Users\braian.pla\source\repos\practica4Saludo\practica4Saludo\bin\Debug\practica4Saludo.pdb
+C:\Users\braian.pla\source\repos\practica4Saludo\practica4Saludo\obj\Debug\practica4Saludo.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica4Saludo\practica4Saludo\obj\Debug\practica4Saludo.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica4Saludo\practica4Saludo\obj\Debug\practica4Saludo.exe
+C:\Users\braian.pla\source\repos\practica4Saludo\practica4Saludo\obj\Debug\practica4Saludo.pdb

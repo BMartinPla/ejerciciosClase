@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica5CelsiusFar\practica5CelsiusFar\bin\Debug\practica5CelsiusFar.exe.config
+C:\Users\braian.pla\source\repos\practica5CelsiusFar\practica5CelsiusFar\bin\Debug\practica5CelsiusFar.exe
+C:\Users\braian.pla\source\repos\practica5CelsiusFar\practica5CelsiusFar\bin\Debug\practica5CelsiusFar.pdb
+C:\Users\braian.pla\source\repos\practica5CelsiusFar\practica5CelsiusFar\obj\Debug\practica5CelsiusFar.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica5CelsiusFar\practica5CelsiusFar\obj\Debug\practica5CelsiusFar.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica5CelsiusFar\practica5CelsiusFar\obj\Debug\practica5CelsiusFar.exe
+C:\Users\braian.pla\source\repos\practica5CelsiusFar\practica5CelsiusFar\obj\Debug\practica5CelsiusFar.pdb
