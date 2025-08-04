@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica6Salidas\practica6Salidas\bin\Debug\practica6Salidas.exe.config
+C:\Users\braian.pla\source\repos\practica6Salidas\practica6Salidas\bin\Debug\practica6Salidas.exe
+C:\Users\braian.pla\source\repos\practica6Salidas\practica6Salidas\bin\Debug\practica6Salidas.pdb
+C:\Users\braian.pla\source\repos\practica6Salidas\practica6Salidas\obj\Debug\practica6Salidas.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica6Salidas\practica6Salidas\obj\Debug\practica6Salidas.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica6Salidas\practica6Salidas\obj\Debug\practica6Salidas.exe
+C:\Users\braian.pla\source\repos\practica6Salidas\practica6Salidas\obj\Debug\practica6Salidas.pdb
