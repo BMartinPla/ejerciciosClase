@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica7Parametros\practica7Parametros\bin\Debug\practica7Parametros.exe.config
+C:\Users\braian.pla\source\repos\practica7Parametros\practica7Parametros\bin\Debug\practica7Parametros.exe
+C:\Users\braian.pla\source\repos\practica7Parametros\practica7Parametros\bin\Debug\practica7Parametros.pdb
+C:\Users\braian.pla\source\repos\practica7Parametros\practica7Parametros\obj\Debug\practica7Parametros.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica7Parametros\practica7Parametros\obj\Debug\practica7Parametros.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica7Parametros\practica7Parametros\obj\Debug\practica7Parametros.exe
+C:\Users\braian.pla\source\repos\practica7Parametros\practica7Parametros\obj\Debug\practica7Parametros.pdb

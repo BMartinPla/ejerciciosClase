@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica8UsuarioValido\practica8UsuarioValido\bin\Debug\practica8UsuarioValido.exe.config
+C:\Users\braian.pla\source\repos\practica8UsuarioValido\practica8UsuarioValido\bin\Debug\practica8UsuarioValido.exe
+C:\Users\braian.pla\source\repos\practica8UsuarioValido\practica8UsuarioValido\bin\Debug\practica8UsuarioValido.pdb
+C:\Users\braian.pla\source\repos\practica8UsuarioValido\practica8UsuarioValido\obj\Debug\practica8UsuarioValido.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica8UsuarioValido\practica8UsuarioValido\obj\Debug\practica8UsuarioValido.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica8UsuarioValido\practica8UsuarioValido\obj\Debug\practica8UsuarioValido.exe
+C:\Users\braian.pla\source\repos\practica8UsuarioValido\practica8UsuarioValido\obj\Debug\practica8UsuarioValido.pdb
