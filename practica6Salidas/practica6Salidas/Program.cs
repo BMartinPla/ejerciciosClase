@@ -68,8 +68,30 @@ namespace practica6Salidas
             mayMen(n1, n2);
             Console.ReadKey();
 
+            // Booleano
 
+            int n3;
 
+            Console.WriteLine("Ingrese el tercer numero: ");
+            aux = Console.ReadLine();
+            while (int.TryParse(aux, out n3) == false)
+            {
+                Console.WriteLine("Ingrese el tercer numero: ");
+                aux = Console.ReadLine();
+            }
+
+            int min, may;
+
+            if (mmBool(n1, n2, n3, out min, out int may) == true)
+            {
+                Console.WriteLine($"{may} es mayor.");
+            }
+            else if (mmBool(n1, n2, n3, out min, out int may) == false)
+            {
+                Console.WriteLine($"Hay numeros repetidos");
+            }
+            Console.ReadKey();
+            
         }
 
         static void nombre(string nom, string ape)
@@ -102,6 +124,41 @@ namespace practica6Salidas
             else
             {
                 Console.WriteLine($"El primer numero ({n1}) es igual al segundo numero ({n2}).");
+            }
+        }
+
+        static bool mmBool(int n1, int n2, int n3, out int min, out int max)
+        {
+            max = 0;
+            if (n1 == n2 || n1 == n3 || n2 == n3)
+            {
+                min = 0;
+                max = 0;
+                return false;
+            }
+            else if (n2 > n1 && n2 > n3)
+            {
+                min = 0;
+                max = n2;
+                return true;
+                if (n1 > n3)
+                {
+                    min = n1;
+                }
+            }
+            else if (n3 > n1 && n3 > n2)
+            {
+                max = n3;
+                return true;
+            }
+            else if (n1 > n2 && n1 > n3)
+            {
+                max = n1;
+                return true;
+            }
+            else
+            {
+                return false;
             }
         }
 
