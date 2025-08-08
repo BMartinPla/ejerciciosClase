@@ -10,12 +10,11 @@ namespace practica8UsuarioValido
     {
         static void Main(string[] args)
         {
-            int i;
             string nom;
             int aux;
-            int k = 0;
+            int hasN = 0;
 
-            Console.WriteLine("Ingrese su nombre");
+            Console.WriteLine("Ingrese su nombre: ");
             nom = Console.ReadLine();
 
             
@@ -23,15 +22,22 @@ namespace practica8UsuarioValido
             {
                 if (int.TryParse(letra.ToString(), out aux) == true)
                 {
-                    Console.WriteLine("El nombre tiene un numero");
-                    Console.ReadKey();
-                    k = 1;
+                    hasN = hasN + 1;
                 }
             }
-            
-            Console.WriteLine($"Su nombre es {nom}");
-            Console.ReadKey();
 
+            if (hasN == 1)
+            {
+                Console.WriteLine($"El nombre {nom} no es valido ya que posee {hasN} numero.");
+            }
+            else if (hasN > 1)
+            {
+                Console.WriteLine($"El nombre {nom} no es valido ya que posee {hasN} numeros.");
+            }
+            else
+            {
+                Console.WriteLine($"El nombre {nom} es valido.");
+            }
         }
     }
 }
