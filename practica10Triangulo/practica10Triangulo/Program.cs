@@ -11,22 +11,22 @@ namespace practica10Triangulo
         static void Main(string[] args)
         {
             int ct;
-            string tri="";
+            string tri="1";
             int aux=1;
 
             Console.WriteLine("Ingrese la cantidad de numeros para el triangulo: ");
             ct = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < ct-2; i++)
+            for (int i = 0; i < ct/2; i++)
             {
+                aux = aux + 2;
                 Console.WriteLine(tri);
+                tri = aux + " " + tri;
                 /*
                 for (int j=0; j < 1; j++)
                 {
                     Console.WriteLine(tri);
                 } */
-                tri = aux + tri;
-                aux = aux + 2;
             }
             Console.ReadKey();
         }
