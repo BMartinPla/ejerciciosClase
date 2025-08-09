@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica10Triangulo\practica10Triangulo\bin\Debug\practica10Triangulo.exe.config
+C:\Users\braian.pla\source\repos\practica10Triangulo\practica10Triangulo\bin\Debug\practica10Triangulo.exe
+C:\Users\braian.pla\source\repos\practica10Triangulo\practica10Triangulo\bin\Debug\practica10Triangulo.pdb
+C:\Users\braian.pla\source\repos\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.exe
+C:\Users\braian.pla\source\repos\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.pdb

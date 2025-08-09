@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica10Fibonacci\practica10Fibonacci\bin\Debug\practica10Fibonacci.exe.config
+C:\Users\braian.pla\source\repos\practica10Fibonacci\practica10Fibonacci\bin\Debug\practica10Fibonacci.exe
+C:\Users\braian.pla\source\repos\practica10Fibonacci\practica10Fibonacci\bin\Debug\practica10Fibonacci.pdb
+C:\Users\braian.pla\source\repos\practica10Fibonacci\practica10Fibonacci\obj\Debug\practica10Fibonacci.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica10Fibonacci\practica10Fibonacci\obj\Debug\practica10Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica10Fibonacci\practica10Fibonacci\obj\Debug\practica10Fibonacci.exe
+C:\Users\braian.pla\source\repos\practica10Fibonacci\practica10Fibonacci\obj\Debug\practica10Fibonacci.pdb

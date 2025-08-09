@@ -90,7 +90,7 @@ namespace practica9Valores
         {
             for (int i = 0;i < valoresB.Length - 1;i++)
             {
-                for (int j = 0; i < valoresB.Length - 1 -i;j++)
+                for (int j = 0; j < valoresB.Length - 1 -i;j++)
                 {
                     if (valoresB[j] > valoresB[j + 1])
                     {
