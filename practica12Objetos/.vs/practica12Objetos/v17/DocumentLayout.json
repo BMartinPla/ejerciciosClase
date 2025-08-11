@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\braian.pla\\source\\repos\\practica12Objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|C:\\Users\\braian.pla\\source\\repos\\practica12Objetos\\practica12objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|solutionrelative:practica12objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|C:\\Users\\braian.pla\\source\\repos\\practica12Objetos\\practica12objetos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|solutionrelative:practica12objetos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|c:\\users\\braian.pla\\source\\repos\\practica12objetos\\practica12objetos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|solutionrelative:practica12objetos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|c:\\users\\braian.pla\\source\\repos\\practica12objetos\\practica12objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|solutionrelative:practica12objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "person.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica12Objetos\\practica12Objetos\\person.cs",
               "RelativeDocumentMoniker": "practica12Objetos\\person.cs",
               "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica12Objetos\\practica12Objetos\\person.cs",
               "RelativeToolTip": "practica12Objetos\\person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T22:07:42.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica12Objetos\\practica12Objetos\\Program.cs",
               "RelativeDocumentMoniker": "practica12Objetos\\Program.cs",
               "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica12Objetos\\practica12Objetos\\Program.cs",
               "RelativeToolTip": "practica12Objetos\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T22:03:01.456Z",
               "EditorCaption": ""

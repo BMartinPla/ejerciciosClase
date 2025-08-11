@@ -19,6 +19,7 @@ namespace practica12Objetos
         {
             this.name = "NN";
             this.age = 1;
+            this.nation = "Tierra";
         }
 
         public person(string name, int age)
