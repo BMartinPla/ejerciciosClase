@@ -13,3 +13,10 @@ C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\
 C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.csproj.CoreCompileInputs.cache
 C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.exe
 C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.pdb
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica10Triangulo\practica10Triangulo\bin\Debug\practica10Triangulo.exe.config
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica10Triangulo\practica10Triangulo\bin\Debug\practica10Triangulo.exe
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica10Triangulo\practica10Triangulo\bin\Debug\practica10Triangulo.pdb
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.csproj.AssemblyReference.cache
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.exe
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica10Triangulo\practica10Triangulo\obj\Debug\practica10Triangulo.pdb

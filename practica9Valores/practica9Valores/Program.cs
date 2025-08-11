@@ -47,20 +47,12 @@ namespace practica9Valores
 
             int[] valoresB = new int[10];
 
-            for (int i = 0; i < valoresB.Length; i++)
-            {
-                Console.Clear();
-                Console.WriteLine($"Ingrese el valor N° {i+1}: ");
-                valoresB[i] = int.Parse(Console.ReadLine());
-            }
+            cargar(valoresB);
 
             Console.WriteLine("Lista ordenada:");
             metBurj(valoresB);
 
-            for (int i = 0;i < valoresB.Length;i++)
-            {
-                Console.WriteLine($"Dato: {i} Valor: {valoresB[i]}");
-            }
+            lista(valoresB);
             Console.ReadKey();
 
         }
@@ -82,7 +74,7 @@ namespace practica9Valores
         {
             for (int i = 0; i < valores.Length; i++)
             {
-                Console.WriteLine($"Pos: {i} Dato: {valores[i]}");
+                Console.WriteLine($"Dato: {i} Valor: {valores[i]}");
             }
         }
 
@@ -99,6 +91,24 @@ namespace practica9Valores
                         valoresB[j + 1] = aux;
                     }
                 }
+            }
+        }
+
+        static void cargar(int[] valoresB)
+        {
+            for (int i = 0; i < valoresB.Length; i++)
+            {
+                string aux;
+                int num;
+                Console.Clear();
+                Console.WriteLine($"Ingrese el valor N° {i + 1}: ");
+                aux = Console.ReadLine();
+                while (int.TryParse(aux, out num) == false)
+                {
+                    Console.WriteLine($"Ingrese el valor N° {i + 1}: ");
+                    aux = Console.ReadLine();
+                }
+                valoresB[i] = num;
             }
         }
     }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\braian.pla\\source\\repos\\practica9Valores\\",
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\archivos\\ejerciciosClase - copia\\practica9Valores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B85131C-165C-480A-8735-37EDDE76F541}|practica9Valores\\practica9Valores.csproj|c:\\users\\braian.pla\\source\\repos\\practica9valores\\practica9valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B85131C-165C-480A-8735-37EDDE76F541}|practica9Valores\\practica9Valores.csproj|c:\\users\\braian.pla\\desktop\\archivos\\ejerciciosclase - copia\\practica9valores\\practica9valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B85131C-165C-480A-8735-37EDDE76F541}|practica9Valores\\practica9Valores.csproj|solutionrelative:practica9valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Bookmark",
@@ -29,14 +29,18 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica9Valores\\practica9Valores\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\archivos\\ejerciciosClase - copia\\practica9Valores\\practica9Valores\\Program.cs",
               "RelativeDocumentMoniker": "practica9Valores\\Program.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica9Valores\\practica9Valores\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\archivos\\ejerciciosClase - copia\\practica9Valores\\practica9Valores\\Program.cs",
               "RelativeToolTip": "practica9Valores\\Program.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAADgv2IAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAzwGkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T22:09:00.669Z",
               "EditorCaption": ""

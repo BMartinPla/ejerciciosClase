@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica10Triangulo\\",
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\archivos\\ejerciciosClase - copia\\practica10Triangulo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2084041B-CCDC-4ACA-A99C-2C777BA5AEA7}|practica10Triangulo\\practica10Triangulo.csproj|c:\\users\\shyve\\onedrive\\escritorio\\todo\\programacion\\facu utn\\utn ejercicios c2\\ejerciciosclase modificable\\practica10triangulo\\practica10triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2084041B-CCDC-4ACA-A99C-2C777BA5AEA7}|practica10Triangulo\\practica10Triangulo.csproj|c:\\users\\braian.pla\\desktop\\archivos\\ejerciciosclase - copia\\practica10triangulo\\practica10triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2084041B-CCDC-4ACA-A99C-2C777BA5AEA7}|practica10Triangulo\\practica10Triangulo.csproj|solutionrelative:practica10triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -36,14 +32,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica10Triangulo\\practica10Triangulo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\archivos\\ejerciciosClase - copia\\practica10Triangulo\\practica10Triangulo\\Program.cs",
               "RelativeDocumentMoniker": "practica10Triangulo\\Program.cs",
-              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica10Triangulo\\practica10Triangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\archivos\\ejerciciosClase - copia\\practica10Triangulo\\practica10Triangulo\\Program.cs",
               "RelativeToolTip": "practica10Triangulo\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T00:12:33.865Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

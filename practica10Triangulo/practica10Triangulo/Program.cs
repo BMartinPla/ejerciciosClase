@@ -17,7 +17,7 @@ namespace practica10Triangulo
             Console.WriteLine("Ingrese la cantidad de numeros para el triangulo: ");
             ct = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < ct/2; i++)
+            for (int i = 0; i <= ct; i+=2)
             {
                 aux = aux + 2;
                 Console.WriteLine(tri);

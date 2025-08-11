@@ -5,3 +5,10 @@ C:\Users\braian.pla\source\repos\practica9Valores\practica9Valores\obj\Debug\pra
 C:\Users\braian.pla\source\repos\practica9Valores\practica9Valores\obj\Debug\practica9Valores.csproj.CoreCompileInputs.cache
 C:\Users\braian.pla\source\repos\practica9Valores\practica9Valores\obj\Debug\practica9Valores.exe
 C:\Users\braian.pla\source\repos\practica9Valores\practica9Valores\obj\Debug\practica9Valores.pdb
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica9Valores\practica9Valores\bin\Debug\practica9Valores.exe.config
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica9Valores\practica9Valores\bin\Debug\practica9Valores.exe
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica9Valores\practica9Valores\bin\Debug\practica9Valores.pdb
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica9Valores\practica9Valores\obj\Debug\practica9Valores.csproj.AssemblyReference.cache
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica9Valores\practica9Valores\obj\Debug\practica9Valores.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica9Valores\practica9Valores\obj\Debug\practica9Valores.exe
+C:\Users\braian.pla\Desktop\archivos\ejerciciosClase - copia\practica9Valores\practica9Valores\obj\Debug\practica9Valores.pdb
