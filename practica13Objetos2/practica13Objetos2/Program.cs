@@ -11,11 +11,6 @@ namespace practica13Objetos2
         static void Main(string[] args)
         {
             car camaro = new car("Chevrolet", 1970, 3);
-            Console.WriteLine($"Marca: {camaro.brand}");
-            Console.WriteLine($"Modelo: {camaro.year}");
-            Console.WriteLine($"Puertas: {camaro.doors}");
-            Console.ReadKey();
-
 
             mostrar(camaro);
         }

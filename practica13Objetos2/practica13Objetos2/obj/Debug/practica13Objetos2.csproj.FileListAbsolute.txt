@@ -5,3 +5,11 @@ C:\Users\braian.pla\source\repos\practica13Objetos2\practica13Objetos2\obj\Debug
 C:\Users\braian.pla\source\repos\practica13Objetos2\practica13Objetos2\obj\Debug\practica13Objetos2.csproj.CoreCompileInputs.cache
 C:\Users\braian.pla\source\repos\practica13Objetos2\practica13Objetos2\obj\Debug\practica13Objetos2.exe
 C:\Users\braian.pla\source\repos\practica13Objetos2\practica13Objetos2\obj\Debug\practica13Objetos2.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica13Objetos2\practica13Objetos2\bin\Debug\practica13Objetos2.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica13Objetos2\practica13Objetos2\bin\Debug\practica13Objetos2.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica13Objetos2\practica13Objetos2\bin\Debug\practica13Objetos2.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica13Objetos2\practica13Objetos2\obj\Debug\practica13Objetos2.csproj.AssemblyReference.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica13Objetos2\practica13Objetos2\obj\Debug\practica13Objetos2.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica13Objetos2\practica13Objetos2\obj\Debug\practica13Objetos2.csproj.CoreCompileInputs.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica13Objetos2\practica13Objetos2\obj\Debug\practica13Objetos2.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica13Objetos2\practica13Objetos2\obj\Debug\practica13Objetos2.pdb

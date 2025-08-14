@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\braian.pla\\source\\repos\\practica13Objetos2\\",
+  "WorkspaceRootPath": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica13Objetos2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B92763B-A770-42BB-825D-0B240C8989CF}|practica13Objetos2\\practica13Objetos2.csproj|c:\\users\\braian.pla\\source\\repos\\practica13objetos2\\practica13objetos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B92763B-A770-42BB-825D-0B240C8989CF}|practica13Objetos2\\practica13Objetos2.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica13Objetos2\\practica13objetos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B92763B-A770-42BB-825D-0B240C8989CF}|practica13Objetos2\\practica13Objetos2.csproj|solutionrelative:practica13objetos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B92763B-A770-42BB-825D-0B240C8989CF}|practica13Objetos2\\practica13Objetos2.csproj|c:\\users\\braian.pla\\source\\repos\\practica13objetos2\\practica13objetos2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B92763B-A770-42BB-825D-0B240C8989CF}|practica13Objetos2\\practica13Objetos2.csproj|c:\\users\\shyve\\onedrive\\escritorio\\todo\\programacion\\facu utn\\utn ejercicios c2\\ejerciciosclase\\practica13objetos2\\practica13objetos2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B92763B-A770-42BB-825D-0B240C8989CF}|practica13Objetos2\\practica13Objetos2.csproj|solutionrelative:practica13objetos2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,6 +26,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
@@ -33,18 +37,14 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "car.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica13Objetos2\\practica13Objetos2\\car.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica13Objetos2\\practica13Objetos2\\car.cs",
               "RelativeDocumentMoniker": "practica13Objetos2\\car.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica13Objetos2\\practica13Objetos2\\car.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica13Objetos2\\practica13Objetos2\\car.cs",
               "RelativeToolTip": "practica13Objetos2\\car.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T00:07:45.773Z",
               "EditorCaption": ""
@@ -53,11 +53,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica13Objetos2\\practica13Objetos2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica13Objetos2\\practica13Objetos2\\Program.cs",
               "RelativeDocumentMoniker": "practica13Objetos2\\Program.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica13Objetos2\\practica13Objetos2\\Program.cs*",
-              "RelativeToolTip": "practica13Objetos2\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica13Objetos2\\practica13Objetos2\\Program.cs",
+              "RelativeToolTip": "practica13Objetos2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T00:06:14.712Z",
               "EditorCaption": ""

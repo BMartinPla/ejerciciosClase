@@ -54,7 +54,7 @@ namespace practica13Objetos2
             get { return this._year; }
             set
             {
-                if (year >= 1950 && year <= 2025)
+                if (value >= 1950 && value <= 2025)
                 {
                     this._year = value;
                 }
@@ -66,7 +66,7 @@ namespace practica13Objetos2
             get { return this._doors; }
             set
             {
-                if (doors >= 2 && doors <= 12)
+                if (value >= 2 && value <= 12)
                 {
                     this._doors = value;
                 }
