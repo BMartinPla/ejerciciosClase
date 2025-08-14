@@ -39,7 +39,7 @@ namespace practica12Objetos
         // Metodos de propiedades
         public string name
         {
-            get {  return this._name; }
+            get { return this._name; }
             set { 
                this._name = value;
             }
