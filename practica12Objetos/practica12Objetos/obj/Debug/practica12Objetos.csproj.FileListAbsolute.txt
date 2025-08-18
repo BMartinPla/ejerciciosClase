@@ -5,3 +5,11 @@ C:\Users\braian.pla\source\repos\practica12Objetos\practica12Objetos\obj\Debug\p
 C:\Users\braian.pla\source\repos\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.csproj.CoreCompileInputs.cache
 C:\Users\braian.pla\source\repos\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.exe
 C:\Users\braian.pla\source\repos\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.pdb
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.csproj.AssemblyReference.cache
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.exe.config
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.exe
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.pdb
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.exe.config
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.exe
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.pdb

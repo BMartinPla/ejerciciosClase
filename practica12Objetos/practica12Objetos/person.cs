@@ -11,28 +11,36 @@ namespace practica12Objetos
     {
         // Propiedades
         private string _name;
-        private int _age;
         private string _nation;
+        private DateTime _birthDate;
 
         // Constructores
         public person()
         {
             this.name = "NN";
-            this.age = 1;
             this.nation = "Tierra";
+            this.birthDate = DateTime.Today;
         }
 
-        public person(string name, int age)
+        public person(string name)
         {
             this.name = name;
-            this.age = age;
+            this.nation = "Tierra";
+            this.birthDate = DateTime.Today;
         }
 
-        public person(string name, int age, string nation)
+        public person(string name, string nation)
         {
             this.name = name;
-            this.age = age;
             this.nation = nation;
+            this.birthDate = DateTime.Today;
+        }
+
+        public person(string name, string nation, DateTime birthDate)
+        {
+            this.name = name;
+            this.nation = nation;
+            this.birthDate = birthDate;
         }
 
 
@@ -47,13 +55,7 @@ namespace practica12Objetos
 
         public int age
         {
-            get { return this._age; }
-            set {
-            if(value >= 0 && value < 150)
-                {
-                    this._age = value;
-                }
-            }
+            get { return DateTime.Today.Year - this.birthDate.Year; }
         }
 
         public string nation
@@ -62,6 +64,18 @@ namespace practica12Objetos
             set
             {
                 this._nation = value;
+            }
+        }
+
+        public DateTime birthDate
+        {
+            get { return this._birthDate; }
+            set
+            {
+                if (value <= DateTime.Today)
+                {
+                    this.birthDate = value;
+                }
             }
         }
     }
