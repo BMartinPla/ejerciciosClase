@@ -15,21 +15,21 @@ namespace practica12Objetos
             person p1 = new person();
 
             p1.name = "Carlito";
-            p1.birthDate = DateTime.Parse("10/07/2015");
+            p1.birthDate = DateTime.Parse("2015/7/10");
 
             Console.WriteLine("Persona 1");
             Console.WriteLine($"El nombre es: {p1.name}");
-            Console.WriteLine($"La edad es: {2025 - p1.age}");
+            Console.WriteLine($"La edad es: {p1.age}");
             Console.ReadKey();
 
-            person p2 = new person("Pedrito", "Boliguayo");
+            person p2 = new person("Pedrito", "Boliguayo", DateTime.Parse("2016/2/14"));
 
             Console.WriteLine("Persona 2");
             Console.WriteLine($"El nombre es: {p2.name}");
             Console.WriteLine($"La edad es: {p2.age}");
             Console.ReadKey();
 
-            person p3 = new person("Juanito", "Paraguayo", DateTime.Parse("8/02/2017"));
+            person p3 = new person("Juanito", "Paraguayo", DateTime.Parse("2017/2/8"));
 
             Console.WriteLine("Persona 3");
             Console.WriteLine($"El nombre es: {p3.name}");

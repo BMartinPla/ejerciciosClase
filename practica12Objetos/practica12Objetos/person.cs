@@ -74,7 +74,7 @@ namespace practica12Objetos
             {
                 if (value <= DateTime.Today)
                 {
-                    this.birthDate = value;
+                    this._birthDate = value;
                 }
             }
         }

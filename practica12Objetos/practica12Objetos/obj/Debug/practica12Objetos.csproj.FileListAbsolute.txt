@@ -13,3 +13,11 @@ C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12
 C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.exe.config
 C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.exe
 C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\bin\Debug\practica12Objetos.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.csproj.AssemblyReference.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica12Objetos\practica12Objetos\obj\Debug\practica12Objetos.pdb
