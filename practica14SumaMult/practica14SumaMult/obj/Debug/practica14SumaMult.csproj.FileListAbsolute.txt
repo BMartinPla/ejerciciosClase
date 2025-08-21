@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica14SumaMult\practica14SumaMult\bin\Debug\practica14SumaMult.exe.config
+C:\Users\braian.pla\source\repos\practica14SumaMult\practica14SumaMult\bin\Debug\practica14SumaMult.exe
+C:\Users\braian.pla\source\repos\practica14SumaMult\practica14SumaMult\bin\Debug\practica14SumaMult.pdb
+C:\Users\braian.pla\source\repos\practica14SumaMult\practica14SumaMult\obj\Debug\practica14SumaMult.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica14SumaMult\practica14SumaMult\obj\Debug\practica14SumaMult.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica14SumaMult\practica14SumaMult\obj\Debug\practica14SumaMult.exe
+C:\Users\braian.pla\source\repos\practica14SumaMult\practica14SumaMult\obj\Debug\practica14SumaMult.pdb
