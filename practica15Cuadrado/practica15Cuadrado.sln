@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica15Cuadrado", "practica15Cuadrado\practica15Cuadrado.csproj", "{B92C5E38-D7A4-4CE6-9FD6-894199633A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92C5E38-D7A4-4CE6-9FD6-894199633A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92C5E38-D7A4-4CE6-9FD6-894199633A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92C5E38-D7A4-4CE6-9FD6-894199633A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92C5E38-D7A4-4CE6-9FD6-894199633A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF77AC3-3478-4D14-B011-8A8A40A79AFA}
+	EndGlobalSection
+EndGlobal

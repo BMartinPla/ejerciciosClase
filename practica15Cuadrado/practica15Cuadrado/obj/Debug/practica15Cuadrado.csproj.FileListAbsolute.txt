@@ -1,0 +1,8 @@
+C:\Users\braian.pla\source\repos\practica15Cuadrado\practica15Cuadrado\bin\Debug\practica15Cuadrado.exe.config
+C:\Users\braian.pla\source\repos\practica15Cuadrado\practica15Cuadrado\bin\Debug\practica15Cuadrado.exe
+C:\Users\braian.pla\source\repos\practica15Cuadrado\practica15Cuadrado\bin\Debug\practica15Cuadrado.pdb
+C:\Users\braian.pla\source\repos\practica15Cuadrado\practica15Cuadrado\obj\Debug\practica15Cuadrado.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica15Cuadrado\practica15Cuadrado\obj\Debug\practica15Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica15Cuadrado\practica15Cuadrado\obj\Debug\practica15Cuadrado.exe
+C:\Users\braian.pla\source\repos\practica15Cuadrado\practica15Cuadrado\obj\Debug\practica15Cuadrado.pdb
+C:\Users\braian.pla\source\repos\practica15Cuadrado\practica15Cuadrado\obj\Debug\practica15Cuadrado.exe.config

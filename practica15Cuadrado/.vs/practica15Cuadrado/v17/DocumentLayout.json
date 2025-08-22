@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\source\\repos\\practica15Cuadrado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C5E38-D7A4-4CE6-9FD6-894199633A60}|practica15Cuadrado\\practica15Cuadrado.csproj|c:\\users\\braian.pla\\source\\repos\\practica15cuadrado\\practica15cuadrado\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C5E38-D7A4-4CE6-9FD6-894199633A60}|practica15Cuadrado\\practica15Cuadrado.csproj|solutionrelative:practica15cuadrado\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92C5E38-D7A4-4CE6-9FD6-894199633A60}|practica15Cuadrado\\practica15Cuadrado.csproj|c:\\users\\braian.pla\\source\\repos\\practica15cuadrado\\practica15cuadrado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92C5E38-D7A4-4CE6-9FD6-894199633A60}|practica15Cuadrado\\practica15Cuadrado.csproj|solutionrelative:practica15cuadrado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "square.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica15Cuadrado\\practica15Cuadrado\\square.cs",
+              "RelativeDocumentMoniker": "practica15Cuadrado\\square.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica15Cuadrado\\practica15Cuadrado\\square.cs",
+              "RelativeToolTip": "practica15Cuadrado\\square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:36:37.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica15Cuadrado\\practica15Cuadrado\\Program.cs",
+              "RelativeDocumentMoniker": "practica15Cuadrado\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica15Cuadrado\\practica15Cuadrado\\Program.cs",
+              "RelativeToolTip": "practica15Cuadrado\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:35:31.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

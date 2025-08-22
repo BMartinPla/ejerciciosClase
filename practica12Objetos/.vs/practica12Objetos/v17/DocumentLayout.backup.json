@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\",
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|c:\\users\\shyve\\onedrive\\escritorio\\todo\\programacion\\facu utn\\utn ejercicios c2\\ejerciciosclase modificable\\practica12objetos\\practica12objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|c:\\users\\braian.pla\\desktop\\clases prog 2\\ejerciciosclase modificable\\practica12objetos\\practica12objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|solutionrelative:practica12objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12objetos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12objetos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|solutionrelative:practica12objetos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12objetos\\sorteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12objetos\\sorteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFF173EF-CDE8-4B5F-91E2-08B75E33F017}|practica12Objetos\\practica12Objetos.csproj|solutionrelative:practica12objetos\\sorteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,15 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\Program.cs",
+              "RelativeDocumentMoniker": "practica12Objetos\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\Program.cs",
+              "RelativeToolTip": "practica12Objetos\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:03:01.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -42,26 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\Program.cs",
-              "RelativeDocumentMoniker": "practica12Objetos\\Program.cs",
-              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\Program.cs",
-              "RelativeToolTip": "practica12Objetos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T22:03:01.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "person.cs",
-              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\person.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\person.cs",
               "RelativeDocumentMoniker": "practica12Objetos\\person.cs",
-              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\person.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\person.cs",
               "RelativeToolTip": "practica12Objetos\\person.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwEwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T22:07:42.641Z",
               "EditorCaption": ""
@@ -70,13 +70,14 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "sorteo.cs",
-              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\sorteo.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\sorteo.cs",
               "RelativeDocumentMoniker": "practica12Objetos\\sorteo.cs",
-              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\sorteo.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase MODIFICABLE\\practica12Objetos\\practica12Objetos\\sorteo.cs",
               "RelativeToolTip": "practica12Objetos\\sorteo.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvzIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T21:31:16.472Z"
+              "WhenOpened": "2025-08-18T21:31:16.472Z",
+              "EditorCaption": ""
             }
           ]
         }

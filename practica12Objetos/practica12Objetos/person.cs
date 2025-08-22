@@ -7,12 +7,18 @@ using System.Xml.Schema;
 
 namespace practica12Objetos
 {
+    public enum tsex
+    {
+        male,
+        female
+    }
     public class person
     {
         // Propiedades
         private string _name;
         private string _nation;
         private DateTime _birthDate;
+        private tsex _sex;
 
         // Constructores
         public person()
@@ -20,6 +26,7 @@ namespace practica12Objetos
             this.name = "NN";
             this.nation = "Tierra";
             this.birthDate = DateTime.Today;
+            this.sex = tsex.male;
         }
 
         public person(string name)
@@ -27,6 +34,7 @@ namespace practica12Objetos
             this.name = name;
             this.nation = "Tierra";
             this.birthDate = DateTime.Today;
+            this.sex = tsex.male;
         }
 
         public person(string name, string nation)
@@ -34,6 +42,7 @@ namespace practica12Objetos
             this.name = name;
             this.nation = nation;
             this.birthDate = DateTime.Today;
+            this.sex = tsex.male;
         }
 
         public person(string name, string nation, DateTime birthDate)
@@ -41,6 +50,15 @@ namespace practica12Objetos
             this.name = name;
             this.nation = nation;
             this.birthDate = birthDate;
+            this.sex = tsex.male;
+        }
+
+        public person(string name, string nation, DateTime birthDate, tsex sex)
+        {
+            this.name = name;
+            this.nation = nation;
+            this.birthDate = birthDate;
+            this.sex = sex;
         }
 
 
@@ -77,6 +95,12 @@ namespace practica12Objetos
                     this._birthDate = value;
                 }
             }
+        }
+
+        public tsex sex
+        {
+            get { return this._sex; }
+            set {  this._sex = value; }
         }
     }
 }

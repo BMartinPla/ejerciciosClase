@@ -22,11 +22,12 @@ namespace practica12Objetos
             Console.WriteLine($"La edad es: {p1.age}");
             Console.ReadKey();
 
-            person p2 = new person("Pedrito", "Boliguayo", DateTime.Parse("2016/2/14"));
+            person p2 = new person("Pedrito", "Boliguayo", DateTime.Parse("2016/2/14"), tsex.male);
 
             Console.WriteLine("Persona 2");
             Console.WriteLine($"El nombre es: {p2.name}");
             Console.WriteLine($"La edad es: {p2.age}");
+            Console.WriteLine($"{p2.name} es: {p2.sex}");
             Console.ReadKey();
 
             person p3 = new person("Juanito", "Paraguayo", DateTime.Parse("2017/2/8"));
