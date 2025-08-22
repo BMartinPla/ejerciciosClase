@@ -59,25 +59,24 @@ namespace practica14SumaMult
             }
             */
 
+            int band = 0;
+
             for (int i = 1; i <= vIng; i = i * 3)
             {
                 aux = i;
                 for (int k = aux; k <=vIng; k = k + 5)
                 {
-                    if (vIng == k)
+                    if (vIng == k && band == 0)
                     {
+                        band = 1;
                         Console.WriteLine("True");
                         Console.ReadKey();
                     }
                 }
             }
 
-            if (vIng == aux)
+            if (vIng != aux && band != 1)
             {
-                Console.WriteLine("True");
-                Console.ReadKey();
-            }
-            else {
                 Console.WriteLine("False");
                 Console.ReadKey();
             }

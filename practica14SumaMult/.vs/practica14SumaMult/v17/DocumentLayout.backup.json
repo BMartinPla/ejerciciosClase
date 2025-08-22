@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\braian.pla\\source\\repos\\practica14SumaMult\\",
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica14SumaMult\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFF462E9-CED3-479E-8235-68DB081388D7}|practica14SumaMult\\practica14SumaMult.csproj|c:\\users\\braian.pla\\source\\repos\\practica14sumamult\\practica14sumamult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFF462E9-CED3-479E-8235-68DB081388D7}|practica14SumaMult\\practica14SumaMult.csproj|c:\\users\\braian.pla\\desktop\\clases prog 2\\ejerciciosclase\\practica14sumamult\\practica14sumamult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF462E9-CED3-479E-8235-68DB081388D7}|practica14SumaMult\\practica14SumaMult.csproj|solutionrelative:practica14sumamult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Bookmark",
@@ -32,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica14SumaMult\\practica14SumaMult\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica14SumaMult\\practica14SumaMult\\Program.cs",
               "RelativeDocumentMoniker": "practica14SumaMult\\Program.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica14SumaMult\\practica14SumaMult\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica14SumaMult\\practica14SumaMult\\Program.cs",
               "RelativeToolTip": "practica14SumaMult\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAqwEsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwFEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T23:27:23.03Z",
               "EditorCaption": ""
