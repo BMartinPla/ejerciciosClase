@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica16CUIT\practica16CUIT\bin\Debug\practica16CUIT.exe.config
+C:\Users\braian.pla\source\repos\practica16CUIT\practica16CUIT\bin\Debug\practica16CUIT.exe
+C:\Users\braian.pla\source\repos\practica16CUIT\practica16CUIT\bin\Debug\practica16CUIT.pdb
+C:\Users\braian.pla\source\repos\practica16CUIT\practica16CUIT\obj\Debug\practica16CUIT.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica16CUIT\practica16CUIT\obj\Debug\practica16CUIT.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica16CUIT\practica16CUIT\obj\Debug\practica16CUIT.exe
+C:\Users\braian.pla\source\repos\practica16CUIT\practica16CUIT\obj\Debug\practica16CUIT.pdb
