@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica18NuevaCreacion\practica18NuevaCreacion\bin\Debug\practica18NuevaCreacion.exe.config
+C:\Users\braian.pla\source\repos\practica18NuevaCreacion\practica18NuevaCreacion\bin\Debug\practica18NuevaCreacion.exe
+C:\Users\braian.pla\source\repos\practica18NuevaCreacion\practica18NuevaCreacion\bin\Debug\practica18NuevaCreacion.pdb
+C:\Users\braian.pla\source\repos\practica18NuevaCreacion\practica18NuevaCreacion\obj\Debug\practica18NuevaCreacion.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica18NuevaCreacion\practica18NuevaCreacion\obj\Debug\practica18NuevaCreacion.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica18NuevaCreacion\practica18NuevaCreacion\obj\Debug\practica18NuevaCreacion.exe
+C:\Users\braian.pla\source\repos\practica18NuevaCreacion\practica18NuevaCreacion\obj\Debug\practica18NuevaCreacion.pdb

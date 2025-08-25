@@ -1,0 +1,8 @@
+C:\Users\braian.pla\source\repos\practica17Caballero\practica17Caballero\bin\Debug\practica17Caballero.exe.config
+C:\Users\braian.pla\source\repos\practica17Caballero\practica17Caballero\bin\Debug\practica17Caballero.exe
+C:\Users\braian.pla\source\repos\practica17Caballero\practica17Caballero\bin\Debug\practica17Caballero.pdb
+C:\Users\braian.pla\source\repos\practica17Caballero\practica17Caballero\obj\Debug\practica17Caballero.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica17Caballero\practica17Caballero\obj\Debug\practica17Caballero.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica17Caballero\practica17Caballero\obj\Debug\practica17Caballero.exe
+C:\Users\braian.pla\source\repos\practica17Caballero\practica17Caballero\obj\Debug\practica17Caballero.pdb
+C:\Users\braian.pla\source\repos\practica17Caballero\practica17Caballero\obj\Debug\practica17Caballero.exe.config
