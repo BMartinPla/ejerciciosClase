@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica19MenuOpciones\practica19MenuOpciones\bin\Debug\practica19MenuOpciones.exe.config
+C:\Users\braian.pla\source\repos\practica19MenuOpciones\practica19MenuOpciones\bin\Debug\practica19MenuOpciones.exe
+C:\Users\braian.pla\source\repos\practica19MenuOpciones\practica19MenuOpciones\bin\Debug\practica19MenuOpciones.pdb
+C:\Users\braian.pla\source\repos\practica19MenuOpciones\practica19MenuOpciones\obj\Debug\practica19MenuOpciones.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica19MenuOpciones\practica19MenuOpciones\obj\Debug\practica19MenuOpciones.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica19MenuOpciones\practica19MenuOpciones\obj\Debug\practica19MenuOpciones.exe
+C:\Users\braian.pla\source\repos\practica19MenuOpciones\practica19MenuOpciones\obj\Debug\practica19MenuOpciones.pdb
