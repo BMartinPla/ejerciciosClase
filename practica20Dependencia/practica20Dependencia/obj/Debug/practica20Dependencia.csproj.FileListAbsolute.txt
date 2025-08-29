@@ -1,0 +1,8 @@
+C:\Users\braian.pla\source\repos\practica20Dependencia\practica20Dependencia\bin\Debug\practica20Dependencia.exe.config
+C:\Users\braian.pla\source\repos\practica20Dependencia\practica20Dependencia\bin\Debug\practica20Dependencia.exe
+C:\Users\braian.pla\source\repos\practica20Dependencia\practica20Dependencia\bin\Debug\practica20Dependencia.pdb
+C:\Users\braian.pla\source\repos\practica20Dependencia\practica20Dependencia\obj\Debug\practica20Dependencia.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica20Dependencia\practica20Dependencia\obj\Debug\practica20Dependencia.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica20Dependencia\practica20Dependencia\obj\Debug\practica20Dependencia.exe
+C:\Users\braian.pla\source\repos\practica20Dependencia\practica20Dependencia\obj\Debug\practica20Dependencia.pdb
+C:\Users\braian.pla\source\repos\practica20Dependencia\practica20Dependencia\obj\Debug\practica20Dependencia.exe.config
