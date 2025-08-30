@@ -1,0 +1,7 @@
+C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.csproj.AssemblyReference.cache
+C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\bin\Debug\practica22PersonaSueldo.exe.config
+C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\bin\Debug\practica22PersonaSueldo.exe
+C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\bin\Debug\practica22PersonaSueldo.pdb
+C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.exe
+C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.pdb
