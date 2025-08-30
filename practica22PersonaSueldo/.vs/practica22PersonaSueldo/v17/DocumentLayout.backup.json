@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\braian.pla\\source\\repos\\practica22PersonaSueldo\\",
+  "WorkspaceRootPath": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|c:\\users\\braian.pla\\source\\repos\\practica22personasueldo\\practica22personasueldo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|c:\\users\\shyve\\onedrive\\escritorio\\todo\\programacion\\facu utn\\utn ejercicios c2\\ejerciciosclase modificable\\practica22personasueldo\\practica22personasueldo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|solutionrelative:practica22personasueldo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|c:\\users\\braian.pla\\source\\repos\\practica22personasueldo\\practica22personasueldo\\trabajotipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|solutionrelative:practica22personasueldo\\trabajotipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\practica22personasueldo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|solutionrelative:practica22personasueldo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|c:\\users\\braian.pla\\source\\repos\\practica22personasueldo\\practica22personasueldo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|solutionrelative:practica22personasueldo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\practica22personasueldo\\trabajotipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AF870B-B2BC-4CCE-BBE7-AF00053EA4DE}|practica22PersonaSueldo\\practica22PersonaSueldo.csproj|solutionrelative:practica22personasueldo\\trabajotipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,14 +26,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
@@ -41,27 +33,34 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "trabajoTipo.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica22PersonaSueldo\\practica22PersonaSueldo\\trabajoTipo.cs",
-              "RelativeDocumentMoniker": "practica22PersonaSueldo\\trabajoTipo.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica22PersonaSueldo\\practica22PersonaSueldo\\trabajoTipo.cs",
-              "RelativeToolTip": "practica22PersonaSueldo\\trabajoTipo.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T23:53:54.126Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "trabajoTipo.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\practica22PersonaSueldo\\trabajoTipo.cs",
+              "RelativeDocumentMoniker": "practica22PersonaSueldo\\trabajoTipo.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\practica22PersonaSueldo\\trabajoTipo.cs",
+              "RelativeToolTip": "practica22PersonaSueldo\\trabajoTipo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:53:54.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "persona.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica22PersonaSueldo\\practica22PersonaSueldo\\persona.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\practica22PersonaSueldo\\persona.cs",
               "RelativeDocumentMoniker": "practica22PersonaSueldo\\persona.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica22PersonaSueldo\\practica22PersonaSueldo\\persona.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\practica22PersonaSueldo\\persona.cs",
               "RelativeToolTip": "practica22PersonaSueldo\\persona.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAqwEoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T23:44:10.381Z",
               "EditorCaption": ""
@@ -70,11 +69,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica22PersonaSueldo\\practica22PersonaSueldo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\practica22PersonaSueldo\\Program.cs",
               "RelativeDocumentMoniker": "practica22PersonaSueldo\\Program.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica22PersonaSueldo\\practica22PersonaSueldo\\Program.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase MODIFICABLE\\practica22PersonaSueldo\\practica22PersonaSueldo\\Program.cs",
               "RelativeToolTip": "practica22PersonaSueldo\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T23:41:24.402Z",
               "EditorCaption": ""

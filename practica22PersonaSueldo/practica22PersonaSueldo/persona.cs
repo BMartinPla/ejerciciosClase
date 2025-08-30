@@ -57,33 +57,20 @@ namespace practica22PersonaSueldo
 
         public int calcularSueldo()
         {
-            trabajoTipo trabajo1 = new trabajoTipo();
             int sueldo = 0;
-            //Console.WriteLine(trabajo.tipo);
             switch (trabajo.tipo)
-
-            
             {
                 case jobs.portero:
-                    {
-                        trabajo1.sueldoporhora = 15;
-                        sueldo = trabajo.sueldoporhora * trabajo.horas;
-                        break;
-                    }
+                    trabajo.sueldoporhora = 15;
+                    break;
                 case jobs.programador:
-                    {
-                        trabajo1.sueldoporhora = 45;
-                        sueldo = trabajo.sueldoporhora * trabajo.horas;
-                        break;
-                    }
+                    trabajo.sueldoporhora = 45;
+                    break;
                 case jobs.medico:
-                    {
-                        trabajo1.sueldoporhora = 90;
-                        sueldo = trabajo.sueldoporhora * trabajo.horas;
-                        break;
-                    }
+                    trabajo.sueldoporhora = 90;
+                    break;
             }
-            
+            sueldo = trabajo.sueldoporhora * trabajo.horas;
             return sueldo;
         }
     }

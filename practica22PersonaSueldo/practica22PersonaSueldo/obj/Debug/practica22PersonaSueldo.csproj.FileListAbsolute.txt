@@ -5,3 +5,11 @@ C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo
 C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\bin\Debug\practica22PersonaSueldo.pdb
 C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.exe
 C:\Users\braian.pla\source\repos\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica22PersonaSueldo\practica22PersonaSueldo\bin\Debug\practica22PersonaSueldo.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica22PersonaSueldo\practica22PersonaSueldo\bin\Debug\practica22PersonaSueldo.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica22PersonaSueldo\practica22PersonaSueldo\bin\Debug\practica22PersonaSueldo.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.csproj.AssemblyReference.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica22PersonaSueldo\practica22PersonaSueldo\obj\Debug\practica22PersonaSueldo.pdb
