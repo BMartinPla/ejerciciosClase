@@ -12,6 +12,12 @@ namespace practica25Biblioteca
         private string _Nombre;
         private string[] _LibrosPrestados;
 
+        public Usuario (string nombre)
+        {
+            this.Nombre = nombre;
+            this.LibrosPrestados = new string[5];
+        }
+
 
         public string Nombre
         {
@@ -21,15 +27,18 @@ namespace practica25Biblioteca
 
         public string[] LibrosPrestados
         {
-            get { return this.LibrosPrestados; }
-            set { this.LibrosPrestados = value; }
+            get { return this._LibrosPrestados; }
+            set { this._LibrosPrestados = value; }
         }
 
-        MostrarLibrosPrestados()
+        public void MostrarLibrosPrestados()
         {
-            for (int i = 0; i < LibrosPrestados.Length; i++)
+            foreach (var libro in LibrosPrestados)
             {
-                Console.WriteLine(LibrosPrestados[i]);
+                if (!string.IsNullOrEmpty(libro))
+                {
+                    Console.WriteLine(libro);
+                }
             }
         }
 

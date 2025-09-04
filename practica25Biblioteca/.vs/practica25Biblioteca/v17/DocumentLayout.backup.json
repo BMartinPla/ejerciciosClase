@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\braian.pla\\source\\repos\\practica25Biblioteca\\",
+  "WorkspaceRootPath": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|c:\\users\\braian.pla\\source\\repos\\practica25biblioteca\\practica25biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|c:\\users\\shyve\\onedrive\\escritorio\\todo\\programacion\\facu utn\\utn ejercicios c2\\ejerciciosclase\\practica25biblioteca\\practica25biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|solutionrelative:practica25biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|solutionrelative:practica25biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|solutionrelative:practica25biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57189F6-35A8-4E58-9DFE-A37BB9AF67EC}|practica25Biblioteca\\practica25Biblioteca.csproj|solutionrelative:practica25biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +26,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\source\\repos\\practica25Biblioteca\\practica25Biblioteca\\Program.cs",
-              "RelativeDocumentMoniker": "practica25Biblioteca\\Program.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\source\\repos\\practica25Biblioteca\\practica25Biblioteca\\Program.cs",
-              "RelativeToolTip": "practica25Biblioteca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T23:32:39.014Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25Biblioteca\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "practica25Biblioteca\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25Biblioteca\\Biblioteca.cs",
+              "RelativeToolTip": "practica25Biblioteca\\Biblioteca.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:15:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25Biblioteca\\Usuario.cs",
+              "RelativeDocumentMoniker": "practica25Biblioteca\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25Biblioteca\\Usuario.cs",
+              "RelativeToolTip": "practica25Biblioteca\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:37:53.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25Biblioteca\\Libro.cs",
+              "RelativeDocumentMoniker": "practica25Biblioteca\\Libro.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25Biblioteca\\Libro.cs",
+              "RelativeToolTip": "practica25Biblioteca\\Libro.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:33:09.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "practica25Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TODO\\PROGRAMACION\\FACU UTN\\UTN EJERCICIOS C2\\ejerciciosClase\\practica25Biblioteca\\practica25Biblioteca\\Program.cs",
+              "RelativeToolTip": "practica25Biblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:32:39.014Z",
+              "EditorCaption": ""
             }
           ]
         }

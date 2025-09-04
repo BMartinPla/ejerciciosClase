@@ -1,0 +1,16 @@
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica25Biblioteca\practica25Biblioteca\bin\Debug\practica25Biblioteca.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica25Biblioteca\practica25Biblioteca\bin\Debug\practica25Biblioteca.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica25Biblioteca\practica25Biblioteca\bin\Debug\practica25Biblioteca.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase MODIFICABLE\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica25Biblioteca\practica25Biblioteca\bin\Debug\practica25Biblioteca.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica25Biblioteca\practica25Biblioteca\bin\Debug\practica25Biblioteca.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica25Biblioteca\practica25Biblioteca\bin\Debug\practica25Biblioteca.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.exe
+C:\Users\Shyve\OneDrive\Escritorio\TODO\PROGRAMACION\FACU UTN\UTN EJERCICIOS C2\ejerciciosClase\practica25Biblioteca\practica25Biblioteca\obj\Debug\practica25Biblioteca.pdb

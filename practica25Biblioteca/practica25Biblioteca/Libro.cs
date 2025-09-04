@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace practica25Biblioteca
 {
-    public enum tapa
+    public enum Tapa
     {
         Blanda,
         Intermedia,
@@ -17,17 +17,15 @@ namespace practica25Biblioteca
         private string _Titulo;
         private string _Autor;
         private bool _Disponible;
-        private tapa _TipoTapa;
+        private Tapa _TipoTapa;
 
-        public Libro (string Titulo, string Autor, tapa TipoTapa)
+        public Libro (string Titulo, string Autor, Tapa TipoTapa)
         {
             this.Titulo = Titulo;
             this.Autor = Autor;
             this.TipoTapa = TipoTapa;
             this.Disponible = true;
         }
-
-
 
         public string Titulo
         {
@@ -47,9 +45,9 @@ namespace practica25Biblioteca
             set { this._Disponible = value; }
         }
 
-        public tapa TipoTapa
+        public Tapa TipoTapa
         {
-            get { return this._TipoTapa}
+            get { return this._TipoTapa; }
             set { this._TipoTapa = value; }
         }
 
