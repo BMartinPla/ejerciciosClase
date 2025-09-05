@@ -22,5 +22,23 @@ namespace practica23Dependencia3
             get { return this._color; }
             set { this._color = value; }
         }
+
+        public abstract int perimetro
+        {
+            get;
+        }
+
+        public abstract int area
+        {
+            get;
+        }
+
+        public virtual void show()
+        {
+            Console.WriteLine($"Color: {this.color}");
+            Console.WriteLine($"Perimetro: {this.perimetro}");
+            Console.WriteLine($"Area: {this.area}");
+        }
+
     }
 }

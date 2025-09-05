@@ -6,39 +6,38 @@ using System.Threading.Tasks;
 
 namespace practica23Dependencia3
 {
-    public class rectangle: form
+    public class triangle: form
     {
         private int _ladoA;
         private int _ladoB;
+        private int _ladoC;
 
-        public rectangle()
+
+        public triangle()
         {
-            this.ladoA = 1;
-            this.ladoB = 1;
+            this.ladoA = 0;
+            this.ladoB = 0;
+            this.ladoC = 0;
             this.color = tono.blanco;
         }
 
-        public rectangle(int ladoA, int ladoB, tono color)
+        public triangle (int ladoA, int ladoB, int ladoC, tono color)
         {
             this.ladoA = ladoA;
             this.ladoB = ladoB;
+            this.ladoC = ladoC;
             this.color = color;
         }
-
-
 
         public int ladoA
         {
             get { return this._ladoA; }
-            set
-            {
-                if (value > 0)
+            set { if (value > 0)
                 {
-                    this._ladoA = value;
+                    this.ladoA = value;
                 }
             }
         }
-
         public int ladoB
         {
             get { return this._ladoB; }
@@ -46,19 +45,35 @@ namespace practica23Dependencia3
             {
                 if (value > 0)
                 {
-                    this._ladoB = value;
+                    this.ladoB = value;
+                }
+            }
+        }
+
+        public int ladoC
+        {
+            get { return this._ladoC; }
+            set
+            {
+                if (value > 0)
+                {
+                    this.ladoC = value;
                 }
             }
         }
 
         public override int perimetro
         {
-            get { return this.ladoA * 2 + this.ladoB * 2; }
+            get { return this.ladoA + this.ladoB + this.ladoC; }
         }
 
         public override int area
         {
-            get { return this.ladoA * this.ladoB; }
+            get {
+                double s = (this.ladoA + this.ladoB + this.ladoC) / 2.0;
+                double area = Math.Sqrt(s * (s - this.ladoA) * (s - this.ladoB) * (s - this.ladoC));
+                return (int)Math.Round(area);
+            }
         }
 
         public override void show()
@@ -67,5 +82,6 @@ namespace practica23Dependencia3
             Console.WriteLine($"Perimetro: {this.perimetro}");
             Console.WriteLine($"Area: {this.area}");
         }
+
     }
 }

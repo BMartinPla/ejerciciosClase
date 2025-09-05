@@ -12,6 +12,8 @@ namespace practica23Dependencia3
         {
             square sq = new square();
             sq.color = tono.azul;
+            
+
 
         }
     }
