@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23dependencia3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23dependencia3\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|c:\\users\\braian.pla\\desktop\\clases prog 2\\ejerciciosclase\\practica23dependencia3\\practica23dependencia3\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23dependencia3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23dependencia3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23dependencia3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23dependencia3\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|c:\\users\\braian.pla\\desktop\\clases prog 2\\ejerciciosclase\\practica23dependencia3\\practica23dependencia3\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23dependencia3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E2ED5-5F38-4A12-9AF7-0006B0D009C3}|practica23Dependencia3\\practica23Dependencia3.csproj|solutionrelative:practica23dependencia3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "form.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23Dependencia3\\form.cs",
               "RelativeDocumentMoniker": "practica23Dependencia3\\form.cs",
@@ -69,14 +69,14 @@
               "RelativeDocumentMoniker": "practica23Dependencia3\\triangle.cs",
               "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23Dependencia3\\triangle.cs",
               "RelativeToolTip": "practica23Dependencia3\\triangle.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwDsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T22:32:35.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "rectangle.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23Dependencia3\\rectangle.cs",
               "RelativeDocumentMoniker": "practica23Dependencia3\\rectangle.cs",
@@ -89,28 +89,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "square.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23Dependencia3\\square.cs",
               "RelativeDocumentMoniker": "practica23Dependencia3\\square.cs",
               "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23Dependencia3\\square.cs",
               "RelativeToolTip": "practica23Dependencia3\\square.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T21:31:58.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T21:31:58.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23Dependencia3\\Program.cs",
               "RelativeDocumentMoniker": "practica23Dependencia3\\Program.cs",
               "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practica23Dependencia3\\practica23Dependencia3\\Program.cs",
               "RelativeToolTip": "practica23Dependencia3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T21:31:46.678Z"
+              "WhenOpened": "2025-09-01T21:31:46.678Z",
+              "EditorCaption": ""
             }
           ]
         }

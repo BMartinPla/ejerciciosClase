@@ -34,7 +34,7 @@ namespace practica23Dependencia3
             get { return this._ladoA; }
             set { if (value > 0)
                 {
-                    this.ladoA = value;
+                    this._ladoA = value;
                 }
             }
         }
@@ -45,7 +45,7 @@ namespace practica23Dependencia3
             {
                 if (value > 0)
                 {
-                    this.ladoB = value;
+                    this._ladoB = value;
                 }
             }
         }
@@ -57,7 +57,7 @@ namespace practica23Dependencia3
             {
                 if (value > 0)
                 {
-                    this.ladoC = value;
+                    this._ladoC = value;
                 }
             }
         }

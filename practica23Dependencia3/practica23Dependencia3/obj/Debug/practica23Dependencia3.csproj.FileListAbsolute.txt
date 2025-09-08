@@ -1,0 +1,8 @@
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase\practica23Dependencia3\practica23Dependencia3\bin\Debug\practica23Dependencia3.exe.config
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase\practica23Dependencia3\practica23Dependencia3\bin\Debug\practica23Dependencia3.exe
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase\practica23Dependencia3\practica23Dependencia3\bin\Debug\practica23Dependencia3.pdb
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase\practica23Dependencia3\practica23Dependencia3\obj\Debug\practica23Dependencia3.csproj.AssemblyReference.cache
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase\practica23Dependencia3\practica23Dependencia3\obj\Debug\practica23Dependencia3.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase\practica23Dependencia3\practica23Dependencia3\obj\Debug\practica23Dependencia3.exe
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase\practica23Dependencia3\practica23Dependencia3\obj\Debug\practica23Dependencia3.pdb
+C:\Users\braian.pla\Desktop\CLASES PROG 2\ejerciciosClase\practica23Dependencia3\practica23Dependencia3\obj\Debug\practica23Dependencia3.exe.config

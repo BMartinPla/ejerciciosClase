@@ -13,6 +13,7 @@ namespace practica21Dependencia2
             tragaperras n1 = new tragaperras();
             n1.apuesta = 500;
             n1.prize = kprize.TresSiete;
+            n1.cApuestas = 0;
 
             Console.WriteLine($"Apostaste: {n1.apuesta}");
             Console.WriteLine($"Conseguiste: {n1.resultado()}");
