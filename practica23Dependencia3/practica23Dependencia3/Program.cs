@@ -79,16 +79,31 @@ namespace practica23Dependencia3
                         v2 = int.Parse(Console.ReadLine());
                         Console.WriteLine("Ingrese el lado 3");
                         v3 = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Seleccione color");
+                        Console.WriteLine("1- Negro");
+                        Console.WriteLine("2- Blanco");
+                        Console.WriteLine("3- Rojo");
+                        Console.WriteLine("4- Azul");
                         break;
                     case 2:
                         Console.WriteLine("Ingrese el lado 1");
                         v1 = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Seleccione color");
+                        Console.WriteLine("1- Negro");
+                        Console.WriteLine("2- Blanco");
+                        Console.WriteLine("3- Rojo");
+                        Console.WriteLine("4- Azul");
                         break;
                     case 3:
                         Console.WriteLine("Ingrese el lado 1");
                         v1 = int.Parse(Console.ReadLine());
                         Console.WriteLine("Ingrese el lado 2");
                         v2 = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Seleccione color");
+                        Console.WriteLine("1- Negro");
+                        Console.WriteLine("2- Blanco");
+                        Console.WriteLine("3- Rojo");
+                        Console.WriteLine("4- Azul");
                         break;
                     default:
                         break;
