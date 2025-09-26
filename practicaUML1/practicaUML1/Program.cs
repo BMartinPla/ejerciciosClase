@@ -10,6 +10,17 @@ namespace practicaUML1
     {
         static void Main(string[] args)
         {
+
+            Persona persona = new Persona();
+            Direccion direccion = new Direccion();
+            direccion.num = 232;
+            direccion.calle = "bolivar";
+
+            persona.domicilio = direccion;
+            persona.ape = "gomez";
+
+
+
         }
     }
 }
