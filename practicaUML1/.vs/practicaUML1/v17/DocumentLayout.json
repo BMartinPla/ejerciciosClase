@@ -3,19 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|c:\\users\\braian.pla\\desktop\\clases prog 2\\ejerciciosclase\\practicauml1\\practicauml1\\prueba.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|c:\\users\\braian.pla\\desktop\\clases prog 2\\ejerciciosclase\\practicauml1\\practicauml1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|solutionrelative:practicauml1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicauml1\\materias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|solutionrelative:practicauml1\\materias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicauml1\\prueba.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|solutionrelative:practicauml1\\prueba.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicauml1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|solutionrelative:practicauml1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicauml1\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|solutionrelative:practicauml1\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicauml1\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|solutionrelative:practicauml1\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|c:\\users\\braian.pla\\desktop\\clases prog 2\\ejerciciosclase\\practicauml1\\practicauml1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicauml1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{511591FF-98C4-4ABC-8F29-44D44C7F5F40}|practicaUML1\\practicaUML1.csproj|solutionrelative:practicauml1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,24 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "prueba.json",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\prueba.json",
-              "RelativeDocumentMoniker": "practicaUML1\\prueba.json",
-              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\prueba.json*",
-              "RelativeToolTip": "practicaUML1\\prueba.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T22:52:06.103Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -66,12 +61,57 @@
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Program.cs",
+              "RelativeDocumentMoniker": "practicaUML1\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Program.cs",
+              "RelativeToolTip": "practicaUML1\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:54:13.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Alumnos.cs",
+              "RelativeDocumentMoniker": "practicaUML1\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Alumnos.cs",
+              "RelativeToolTip": "practicaUML1\\Alumnos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:08:06.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Materias.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Materias.cs",
+              "RelativeDocumentMoniker": "practicaUML1\\Materias.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Materias.cs",
+              "RelativeToolTip": "practicaUML1\\Materias.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:07:53.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prueba.json",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\prueba.json",
+              "RelativeDocumentMoniker": "practicaUML1\\prueba.json",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\prueba.json",
+              "RelativeToolTip": "practicaUML1\\prueba.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T22:52:06.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Cuenta.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Cuenta.cs",
               "RelativeDocumentMoniker": "practicaUML1\\Cuenta.cs",
@@ -83,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Cliente.cs",
               "RelativeDocumentMoniker": "practicaUML1\\Cliente.cs",
@@ -91,12 +131,11 @@
               "RelativeToolTip": "practicaUML1\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:10:43.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T22:10:43.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Direccion.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Direccion.cs",
               "RelativeDocumentMoniker": "practicaUML1\\Direccion.cs",
@@ -104,12 +143,11 @@
               "RelativeToolTip": "practicaUML1\\Direccion.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:03:47.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T22:03:47.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Persona.cs",
               "RelativeDocumentMoniker": "practicaUML1\\Persona.cs",
@@ -121,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Empleado.cs",
               "RelativeDocumentMoniker": "practicaUML1\\Empleado.cs",
@@ -130,19 +168,6 @@
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T21:54:42.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Program.cs",
-              "RelativeDocumentMoniker": "practicaUML1\\Program.cs",
-              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\CLASES PROG 2\\ejerciciosClase\\practicaUML1\\practicaUML1\\Program.cs",
-              "RelativeToolTip": "practicaUML1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:54:13.828Z",
-              "EditorCaption": ""
             }
           ]
         }

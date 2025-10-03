@@ -1,10 +1,29 @@
 {
-  "exclude": [
-    "**/bin",
-    "**/bower_components",
-    "**/jspm_packages",
-    "**/node_modules",
-    "**/obj",
-    "**/platforms"
+  "nivel": 1,
+  "aula": "H03",
+  "materia": "programacion 2",
+  "docentes": [ "Riera, Lujan", "Rojas, Dario" ],
+  "alumnos": [
+    {
+      "legajo": 1002,
+      "apelnom": "Gomez, Luis",
+      "fechaNac": "2000-03-17",
+      "entregoTP": true,
+      "empresaTrabaja": "Siderar SA"
+    },
+    {
+      "legajo": 1017,
+      "apelnom": "Ruiz, Joaquin",
+      "fechaNac": "2010-04-21",
+      "entregoTP": false,
+      "empresaTrabaja": null
+    },
+    {
+      "legajo": 1109,
+      "apelnom": "Fernandez, Aldana",
+      "fechaNac": "2008-11-03",
+      "entregoTP": true,
+      "empresaTrabaja": "Electro Integral"
+    }
   ]
 }
