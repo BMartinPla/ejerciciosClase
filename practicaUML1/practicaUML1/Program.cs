@@ -39,6 +39,11 @@ namespace practicaUML1
 
 
 
+            MateriasUTN matUTN = new MateriasUTN();
+            AlumnosUTN alumUTN = new AlumnosUTN();
+
+            matUTN = JsonSerializer.Deserialize<MateriasUTN>(cadena);
+
 
 
 
