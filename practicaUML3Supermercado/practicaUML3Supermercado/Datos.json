@@ -1,0 +1,355 @@
+[
+  {
+    "nombre": "Supermercado La Estrella",
+    "direccion": "Av. Siempre Viva 123",
+    "productos": [
+      {
+        "id": 1,
+        "descripcion": "Arroz largo fino 1kg",
+        "precioCosto": 150,
+        "porcentajeGanancia": 30,
+        "porcentajeDescuento": 10,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Almacén",
+          "estante": "A1"
+        }
+      },
+      {
+        "id": 2,
+        "descripcion": "Leche entera 1L",
+        "precioCosto": 120,
+        "porcentajeGanancia": 25,
+        "iva": 10.5,
+        "ubicacion": {
+          "pasillo": "Lácteos",
+          "estante": "L2"
+        }
+      },
+      {
+        "id": 3,
+        "descripcion": "Yerba mate 1kg",
+        "precioCosto": 500,
+        "porcentajeGanancia": 35,
+        "porcentajeDescuento": 5,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Bebidas calientes",
+          "estante": "B3"
+        }
+      },
+      {
+        "id": 4,
+        "descripcion": "Azúcar 1kg",
+        "precioCosto": 200,
+        "porcentajeGanancia": 20,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Almacén",
+          "estante": "A2"
+        }
+      },
+      {
+        "id": 5,
+        "descripcion": "Aceite girasol 1L",
+        "precioCosto": 600,
+        "porcentajeGanancia": 28,
+        "porcentajeDescuento": 15,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Aceites",
+          "estante": "C1"
+        }
+      },
+      {
+        "id": 6,
+        "descripcion": "Galletitas dulces",
+        "precioCosto": 180,
+        "porcentajeGanancia": 22,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Snacks",
+          "estante": "S4"
+        }
+      },
+      {
+        "id": 7,
+        "descripcion": "Jabón en polvo 800g",
+        "precioCosto": 450,
+        "porcentajeGanancia": 40,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Limpieza",
+          "estante": "L1"
+        }
+      },
+      {
+        "id": 8,
+        "descripcion": "Papel higiénico x4",
+        "precioCosto": 320,
+        "porcentajeGanancia": 30,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Hogar",
+          "estante": "H2"
+        }
+      },
+      {
+        "id": 9,
+        "descripcion": "Café instantáneo 170g",
+        "precioCosto": 850,
+        "porcentajeGanancia": 25,
+        "porcentajeDescuento": 5,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Bebidas calientes",
+          "estante": "B4"
+        }
+      },
+      {
+        "id": 10,
+        "descripcion": "Fideos spaghetti 500g",
+        "precioCosto": 140,
+        "porcentajeGanancia": 20,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Pastas",
+          "estante": "P1"
+        }
+      }
+    ]
+  },
+  {
+    "nombre": "Supermercado El Ahorro",
+    "direccion": "Calle Falsa 456",
+    "productos": [
+      {
+        "id": 2,
+        "descripcion": "Leche entera 1L",
+        "precioCosto": 118,
+        "porcentajeGanancia": 27,
+        "iva": 10.5,
+        "ubicacion": {
+          "pasillo": "Lácteos",
+          "estante": "L1"
+        }
+      },
+      {
+        "id": 4,
+        "descripcion": "Azúcar 1kg",
+        "precioCosto": 195,
+        "porcentajeGanancia": 22,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Almacén",
+          "estante": "A1"
+        }
+      },
+      {
+        "id": 11,
+        "descripcion": "Harina 000 1kg",
+        "precioCosto": 160,
+        "porcentajeGanancia": 18,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Almacén",
+          "estante": "A3"
+        }
+      },
+      {
+        "id": 12,
+        "descripcion": "Huevos docena",
+        "precioCosto": 700,
+        "porcentajeGanancia": 35,
+        "iva": 10.5,
+        "ubicacion": {
+          "pasillo": "Refrigerados",
+          "estante": "R1"
+        }
+      },
+      {
+        "id": 13,
+        "descripcion": "Pan lactal",
+        "precioCosto": 250,
+        "porcentajeGanancia": 20,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Panadería",
+          "estante": "P2"
+        }
+      },
+      {
+        "id": 6,
+        "descripcion": "Galletitas dulces",
+        "precioCosto": 175,
+        "porcentajeGanancia": 24,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Snacks",
+          "estante": "S2"
+        }
+      },
+      {
+        "id": 14,
+        "descripcion": "Mermelada frutilla 454g",
+        "precioCosto": 390,
+        "porcentajeGanancia": 30,
+        "porcentajeDescuento": 10,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Desayuno",
+          "estante": "D1"
+        }
+      },
+      {
+        "id": 15,
+        "descripcion": "Queso cremoso 1kg",
+        "precioCosto": 1200,
+        "porcentajeGanancia": 32,
+        "iva": 10.5,
+        "ubicacion": {
+          "pasillo": "Lácteos",
+          "estante": "L3"
+        }
+      },
+      {
+        "id": 5,
+        "descripcion": "Aceite girasol 1L",
+        "precioCosto": 610,
+        "porcentajeGanancia": 26,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Aceites",
+          "estante": "C2"
+        }
+      },
+      {
+        "id": 9,
+        "descripcion": "Café instantáneo 170g",
+        "precioCosto": 830,
+        "porcentajeGanancia": 28,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Bebidas calientes",
+          "estante": "B1"
+        }
+      }
+    ]
+  },
+  {
+    "nombre": "Supermercado Doña Rosa",
+    "direccion": "Boulevard Central 789",
+    "productos": [
+      {
+        "id": 3,
+        "descripcion": "Yerba mate 1kg",
+        "precioCosto": 490,
+        "porcentajeGanancia": 34,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Infusiones",
+          "estante": "I1"
+        }
+      },
+      {
+        "id": 7,
+        "descripcion": "Jabón en polvo 800g",
+        "precioCosto": 455,
+        "porcentajeGanancia": 38,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Limpieza",
+          "estante": "L1"
+        }
+      },
+      {
+        "id": 8,
+        "descripcion": "Papel higiénico x4",
+        "precioCosto": 315,
+        "porcentajeGanancia": 33,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Higiene",
+          "estante": "H1"
+        }
+      },
+      {
+        "id": 16,
+        "descripcion": "Jugo en polvo naranja",
+        "precioCosto": 80,
+        "porcentajeGanancia": 40,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Bebidas",
+          "estante": "B3"
+        }
+      },
+      {
+        "id": 10,
+        "descripcion": "Fideos spaghetti 500g",
+        "precioCosto": 138,
+        "porcentajeGanancia": 22,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Pastas",
+          "estante": "P1"
+        }
+      },
+      {
+        "id": 11,
+        "descripcion": "Harina 000 1kg",
+        "precioCosto": 162,
+        "porcentajeGanancia": 20,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Almacén",
+          "estante": "A2"
+        }
+      },
+      {
+        "id": 13,
+        "descripcion": "Pan lactal",
+        "precioCosto": 255,
+        "porcentajeGanancia": 22,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Panadería",
+          "estante": "P3"
+        }
+      },
+      {
+        "id": 17,
+        "descripcion": "Detergente 500ml",
+        "precioCosto": 250,
+        "porcentajeGanancia": 35,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Limpieza",
+          "estante": "L2"
+        }
+      },
+      {
+        "id": 18,
+        "descripcion": "Desodorante ambiente 360ml",
+        "precioCosto": 340,
+        "porcentajeGanancia": 30,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Perfumería",
+          "estante": "P4"
+        }
+      },
+      {
+        "id": 14,
+        "descripcion": "Mermelada frutilla 454g",
+        "precioCosto": 395,
+        "porcentajeGanancia": 28,
+        "iva": 21,
+        "ubicacion": {
+          "pasillo": "Desayuno",
+          "estante": "D2"
+        }
+      }
+    ]
+  }
+]
